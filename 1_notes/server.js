@@ -8,7 +8,7 @@ app.get('/', function (req, res) {
     // config for your database
     var config = {
         user: 'njain51',
-        password: '1Jia9282@',
+        password: '****',
         server: 'nitinserver.database.windows.net:1433',
         database: 'nitindb'
     };
@@ -36,3 +36,4 @@ app.get('/', function (req, res) {
 var server = app.listen(5000, function () {
     console.log('Server is running..');
 });
+
