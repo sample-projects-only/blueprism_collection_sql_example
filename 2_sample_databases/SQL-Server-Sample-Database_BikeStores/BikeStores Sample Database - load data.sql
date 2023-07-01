@@ -8,7 +8,7 @@ Version: 1.0
 --------------------------------------------------------------------
 */
 
-use BikeStores;
+use nitindb;
 
 SET IDENTITY_INSERT production.brands ON;  
 

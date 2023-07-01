@@ -2,3 +2,7 @@
 
 # storing password in .password
 .password
+
+./1_notes/node_modules
+./1_notes/package-lock.json
+./1_notes/package.json
